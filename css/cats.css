@@ -13,6 +13,10 @@ header h1{
 	color: white;
 	font-family: 'Pacifico', cursive;
 	font-size:50px;
+	margin: 0 auto;
+	border:3px 2px; width:500px ; border-style:solid; border-color:#000414; padding: 1em;
+	
+
 }
 
 
